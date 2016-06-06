@@ -1,0 +1,267 @@
+/* ----Universal Stylesheet---- */
+
+
+/*can be applied to any module*/
+
+
+/*! Read First!
+The following CSS are arranged alphabetically and subdivided as
+----Classes
+----ID
+----Element
+----Snippets
+Please observe accordingly when doing your edits.
+Thanks!
+*/
+
+
+/* ---- start: Classes ---- */
+
+.bg-orange {
+    background-color: #ffb347;
+}
+
+.btn-bottom-login {
+    position: relative;
+    margin-top: 110%;
+}
+
+.btn-bottom-search {
+    position: relative;
+}
+
+.btn-bottom-out {
+    position: relative;
+    margin-top: 15%;
+}
+
+.btn-circle {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+.btn-mdispatch {
+    border: 0px;
+    border-radius: 0px;
+    width: 100%;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.btn-msuccess {
+    border: 0px;
+    border-radius: 0px;
+    width: 100%;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.btn-mfailed {
+    border: 0px;
+    border-radius: 0px;
+    width: 100%;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.btn-menu {
+    border: 0px;
+    border-radius: 0px;
+    width: 100%;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.btn-menu-80 {
+    border: 0px;
+    border-radius: 0px;
+    width: 80%;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.fnt-16 {
+    font-size: 16px;
+}
+
+.fnt-20 {
+    font-size: 20px;
+}
+
+.fnt-25 {
+    font-size: 25px;
+}
+
+.fnt-30 {
+    font-size: 30px;
+}
+
+.fnt-40 {
+    font-size: 40px;
+}
+
+.fnt-50 {
+    font-size: 50px;
+}
+
+.fnt-100 {
+    font-size: 100px;
+}
+
+.fnt-green {
+    color: #5cb85c;
+}
+
+.fnt-red {
+    color: red;
+}
+
+.fnt-white {
+    color: white;
+}
+
+.footer {
+    position: absolute;
+    bottom: 20px;
+    ;
+    width: 100%;
+}
+
+.height-70 {
+    height: 70px
+}
+
+.mg-bt-20 {
+    margin-bottom: 20px
+}
+
+.mg-bt-50 {
+    margin-bottom: 50px
+}
+
+.mg-top-10 {
+    margin-top: 10px
+}
+
+.mg-top-20 {
+    margin-top: 20px;
+}
+
+.mg-top-30 {
+    margin-top: 20px;
+}
+
+.mg-top-40 {
+    margin-top: 40px;
+}
+
+.mg-top-50 {
+    margin-top: 50px;
+}
+
+.mg-top-80 {
+    margin-top: 80px;
+}
+
+.mg-top-100 {
+    margin-top: 100px;
+}
+
+.mg-top-65p {
+    margin-top: 65%;
+}
+
+.mg-top-n20 {
+    margin-top: -20px;
+}
+
+.mg-icon {
+    margin-top: -20px;
+    margin-left: -15px;
+}
+
+.mg-icon-user {
+    margin-top: -25px;
+    margin-left: -20px;
+}
+
+.pd-0 {
+    padding: 0px;
+}
+
+.pd-3 {
+    padding: 3px;
+}
+
+.pd-5 {
+    padding: 5px;
+}
+
+.pd-10 {
+    padding: 10px;
+}
+
+.pd-40 {
+    padding: 40px;
+}
+
+.pd-top-5 {
+    padding-top: 5px;
+}
+
+.pd-top-8 {
+    padding-top: 8px;
+}
+
+.pd-lr-50 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.pd-bt-5 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.pd-qr {
+    padding: 9px 8px 8px 8px;
+}
+
+
+/*
+.vcenter {
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    margin: -100px 0 0 -150px;
+}
+*/
+
+.width-30p {
+    width: 30%;
+}
+
+.width-40p {
+    width: 40%;
+}
+
+.width-50p {
+    width: 50%;
+}
+
+.width-100p {
+    width: 50%;
+}
+
+
+/* ---- end: Classes ---- */
+
+
+/* ---- start: ID ---- */
+
+
+/* ---- end: ID ---- */
+
+
+/* ---- start: Element ---- */
+
+
+/* ---- end: Element ---- */

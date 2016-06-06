@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+    <title>Delivrr</title>
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+
+    <link rel="stylesheet" type="text/css" href="css/sweetalert.css" />
+    <link rel="stylesheet" type="text/css" href="css/universal.css" />
+</head>
+
+<body class="">
+    <div class="col-xs-12 mg-top-20">
+        <div class="col-xs-12 mg-top-100">
+            <center><img src="img/delivrr_logo.png" class="width-40p" /></center>
+        </div>
+    </div>
+
+    <div class="col-xs-12 form-group mg-top-100">
+        <div class="input-group height-70">
+            <input id="tracking" type="text" class="form-control height-70 fnt-25" placeholder="Tracking Number">
+            <span class="input-group-btn">
+                <button class="btn btn-success pd-qr" onclick="app.scan();" type="button"><span class="glyphicon glyphicon-qrcode fnt-white fnt-50 pd-3"></span></button>
+            </span>
+        </div>
+
+        <center>
+            <button id="search-txt" type="button" class="btn btn-success mg-top-100 fnt-30 btn-menu-80">Search</button>
+        </center>
+    </div>
+
+
+
+
+
+
+
+    <script type="text/javascript" src="cordova.js"></script>
+    <script type="text/javascript" src="barcodescanner.js"></script>
+    <script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+
+    <script type="text/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+
+    <script type="text/javascript" src="js/sweetalert.min.js"></script>
+    <script type="text/javascript">
+        app.initialize();
+    </script>
+</body>
+
+</html>
